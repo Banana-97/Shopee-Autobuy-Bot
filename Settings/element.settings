@@ -10,7 +10,7 @@
   "CartPage": {
     "CheckOutButton": "//*[@id=\"main\"]/div/div[2]/div/div/div[3]/section/div[7]/button[4]/span",
     "SelectAllCheckbox": "//*[@id=\"main\"]/div/div[2]/div/div/div[3]/section/div[7]/div[1]/label/div",
-    "CartTotalPriceLabel": "//div[contains(@class, 'WC0us+)]",
+    "CartTotalPriceLabel": "//div[contains(@class, 'WC0us+')]",
     "ClaimShopVoucherButton": "//button[contains(@class, 'btn') and contains(text(), 'Claim')]",
     "CartEmptyLabel": "//div[contains(@class, 'xkMOGx') and contains(text(), 'Your shopping cart is empty')]",
     "SelectAllLabel": "//button[contains(@class, 'iGlIrs clear-btn-style')]"
